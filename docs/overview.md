@@ -45,6 +45,12 @@ Developer docs:
 Workshop docs:
 
 - `docs/setup.md` — environment setup + optional extras
-- `docs/demos.md` — script demos (same ideas as the notebook)
 - `docs/maplibre_anymap.md` — mapping in notebooks (anymap-ts / MapLibre)
 - `docs/exercises.md` — student exercises (build the simulation)
+- `docs/concepts.md` — design and architecture of multi-agent simulations
+
+Train simulation docs:
+
+- `docs/train_simulation.md` — Train visualization notebook architecture, simulation loop, and how to use
+- `docs/netex_format.md` — NeTEx XML standard, parser implementation, and format examples
+- `docs/train_simulation_quick_reference.md` — Quick start, customization examples, and troubleshooting
